@@ -5,3 +5,33 @@ div.jumbotron {
 .main-img {
   width: 100%;
 }
+
+.container-fluid {
+  text-align: center;
+}
+
+li {
+  list-style: none;
+}
+
+.bg-success {
+  font-weight: bold;
+}
+
+.pak {
+  padding: 15px;
+}
+
+.col-md-4 p:first-of-type {
+  min-height: 200px;
+  max-height: auto;
+}
+
+.col-md-4 p:last-child {
+  font-weight: bold;
+  background-color: #FBC0C0;
+}
+
+img.pac {
+  height: 550px;
+}
